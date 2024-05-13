@@ -3,3 +3,4 @@ all: main.c
 
 clean:
 	rm -rf *.o
+	rm -rf *.dSYM
